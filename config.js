@@ -67,16 +67,16 @@ global.SESSION_ID = process.env.SESSION_ID ||  "SUHAIL_19_45_07_10_ewogICJjcmVkc
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "1", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.8",
-  caption : global.caption || "" , // ```『 sʀɪᴊᴀ ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴠɪʀᴜᴘ 』```"),
+  caption : global.caption || "" , // ```『  ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴠɪʀᴜᴘ 』```"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sʀɪᴊᴀ-ᴍᴅ",
+  author : process.env.PACK_AUTHER|| "𝐀ᴠɪʀᴜᴘ",
+  packname: process.env.PACK_NAME || "Aᴠɪʀᴜᴘ",
+  botname : process.env.BOT_NAME  || "𝐀ᴠɪ-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "ᴀᴠɪʀᴜᴘ",
 
 
