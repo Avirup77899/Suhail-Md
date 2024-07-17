@@ -45,10 +45,10 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
+var surl = 'wa.me/+919331218857' // Source URL
 const number = '919331218857'
 var name = ' ᴀᴠɪʀᴜᴘ'
-var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
+var body = 'Avirup Tech'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
